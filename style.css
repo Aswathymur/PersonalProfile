@@ -1,0 +1,107 @@
+.container {
+    position: relative;
+    text-align: left;
+    color: rgb(49, 30, 30);
+    
+  }  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    bottom: 120px;
+    left: 110px;
+    font-style: oblique;
+    font-size: 5em;
+    color: rgb(255, 255, 255);
+  }
+
+body{
+    background-color: #2e2c2c;
+    padding:0px;
+
+}
+lu{
+    list-style:none;
+}
+a{
+    text-decoration: none;
+}
+section{
+    width:100%;
+    height: 5000px;
+    background-color: #f5f2d0; 
+    text-align-last: left;
+    
+}
+.images{
+    border-radius: 50%;
+    height: 200px;
+    width:200px;
+    float: right;
+    padding-right: 70px;
+}
+.intro{
+    margin-right: 25pt;
+    margin-left: 25pt;
+    font-size: 15pt;
+    text-align: left;
+    text-decoration: none;
+    
+}
+h1{
+    padding: 25px;
+    font-style: italic;
+    font-size: 20pt;
+    border-left-width: 35px;
+}
+.it{
+    float: right;
+    margin-left: 25pt;
+    font-size: 15pt;
+    text-align: left;
+    text-decoration: none; 
+}
+.jobs{
+width: 500px;
+height: 700px;
+}
+.ij{
+    float: right;
+    margin-left: 25pt;
+    font-size: 15pt;
+    text-align: left;
+    text-decoration: none; 
+}
+.personality{
+    margin-left: 25pt;
+    font-size: 15pt;
+    text-align: left;
+    text-decoration: none; 
+}
+.mg{
+    padding: 25px;
+    height: 600px;
+}
+.creativity{
+float: right;
+height: 600px;
+padding: 25px;
+}
+.personality1{
+    float: left;
+    margin-left: 25pt;
+    font-size: 15pt;
+    text-align: left;
+    text-decoration: none; 
+}
+.proidea{
+    float: left;
+    margin-left: 25pt;
+    font-size: 15pt;
+    text-align: left;
+    text-decoration: none; 
+}
+.h2{
+    font-style: italic;
+    font-size: 20pt;
+    border-left-width: 35px;
+}
